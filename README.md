@@ -1,0 +1,1 @@
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml)

@@ -6,7 +6,7 @@ export const journalSlice = createSlice({
     entries: [
       { text: "Water plants", isDone: false },
       { text: "Take dog for a walk", isDone: false },
-      { text: "watch Wimbledon Tenniw", isDone: false },
+      { text: "Watch Wimbledon Tennis", isDone: false },
       { text: "Make smoke salmon canapes", isDone: false },
     ],
     doneEntries: []

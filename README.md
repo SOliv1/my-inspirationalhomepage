@@ -1,4 +1,4 @@
-[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml) 
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/jekyll-gh-pages.yml) [![pages-build-deployment](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment)
 
 # This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template
 

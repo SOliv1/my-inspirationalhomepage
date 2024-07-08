@@ -1,6 +1,7 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f397f410-9033-4d89-bb68-ed68bb11a5db/deploy-status)](https://app.netlify.com/sites/my-inspirationalhomepage/deploys) [![pages-build-deployment](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/pages/pages-build-deployment)[![Dependabot Updates](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/SOliv1/inspirational-homepage/actions/workflows/dependabot/dependabot-updates)
 
 View Deployed Site on Netlify [Here](https://my-inspirationalhomepage.netlify.app/)
+![screenshot](https://github.com/SOliv1/inspiring-homepage/blob/master/inspiring-homepage-banner.png)
 
 ![screenshot](https://raw.githubusercontent.com/bigfatpartyguy/inspirational-homepage/main/Inspirational-homepage_banner.png)
 

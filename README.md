@@ -2,6 +2,8 @@
 
 View Deployed Site on Netlify [Here](https://my-inspirationalhomepage.netlify.app/)
 
+![screenshot](https://raw.githubusercontent.com/bigfatpartyguy/inspirational-homepage/main/Inspirational-homepage_banner.png)
+
 # CodeAcademy Advanced React-Redux Project
 The application interacts with different APIs to display the current weather, a background image, and an inspirational quote. It also provides users with a space to write down their objectives for the day. 
 A fancy to-do list with dynamic data.

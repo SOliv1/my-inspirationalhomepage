@@ -3,6 +3,8 @@
 View Deployed Site on Netlify [Here](https://my-inspirationalhomepage.netlify.app/)
 ![screenshot](https://github.com/SOliv1/inspiring-homepage/blob/master/inspiring-homepage-banner.png)
 
+![screenshot](https://github.com/SOliv1/inspiring-homepage/blob/master/inspiring-homepage-banner.png)
+
 ![screenshot](https://raw.githubusercontent.com/bigfatpartyguy/inspirational-homepage/main/Inspirational-homepage_banner.png)
 
 # CodeAcademy Advanced React-Redux Project

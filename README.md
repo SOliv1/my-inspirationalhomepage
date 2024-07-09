@@ -6,7 +6,7 @@ View Deployed Site on Netlify [Here](https://my-inspirationalhomepage.netlify.ap
 
 
 
-# CodeAcademy Advanced React-Redux Project
+# Codecademy Advanced React-Redux Project
 
 ## Inspirational Homepage
 
